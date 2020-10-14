@@ -1,0 +1,15 @@
+/* main css */
+
+/* import font	*/
+@import  url("https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans+Narrow|Roboto&display=swap" rel="stylesheet");
+
+/*	import font awesome */
+@import url("@fortawesome/fontawesome-free/css/all.css");
+
+/* css */
+@import "./buildstructure.css";
+@import "./buildnav.css";
+@import "./buildhome.css";
+@import "./buildmenu.css";
+@import "./buildcontact.css";
+

@@ -1,0 +1,181 @@
+
+.home-all-cont {
+	width: 100%;
+    height: 100%;
+    position: relative;
+    
+}
+
+.home-title-cont {
+
+    display: flex;
+    width: 70%;
+    height: 100%;
+    position: relative;
+    z-index: 3;
+
+}
+
+.home-title-sec-cont {
+	margin: auto;
+    width: 80%;
+    height: 80%;
+}
+
+.home-title-sec-cont > h2 {
+	font-size: 5rem;
+	color: #545454;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.home-desc-cont {
+    position: relative;
+    width: 80%;
+    
+}
+
+.restaurant-soc-media {
+	display: flex;
+    width: 100%;
+    height: 100px;
+}
+
+.soc-home-cont {
+	display: flex;
+	width: 50%;
+}
+
+.soc-home {
+	display: flex;
+	width: 25%;
+}
+
+.soc-home > a {
+	font-size: 3rem;
+	margin: auto auto auto 0;
+	color: #545454;
+	text-decoration: none;
+}
+
+.img-home-cont {
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.pic1 {
+	width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(0%,-50%);
+    z-index: 2;
+}
+
+.pic2 {
+	width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(0%,-50%);
+}
+
+.pic3 {
+	width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 39%;
+    z-index: 3;
+    transform: rotate(-37deg);
+}
+
+.pic4 {
+	width: 500px;
+    position: absolute;
+    top: 20%;
+    z-index: 3;
+    left: 27%;
+    transform: rotate(-79deg);
+}
+
+.pic5 {
+	width: 120px;
+    position: absolute;
+    top: 84%;
+    left: 51%;
+    z-index: 3;
+    transform: rotate(-54deg);
+}
+
+.pic6 {
+    width: 150px;
+    position: absolute;
+    right: 0;
+    top: 11%;
+    z-index: 3;
+    transform: rotate(-48deg);
+}
+.pic7 {
+    width: 300px;
+    position: absolute;
+    top: 60%;
+    left: 15%;
+    transform: rotate(45deg);
+}
+.pic8 {
+    width: 120px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: rotate(-16deg);
+}
+.pic9 {
+    width: 200px;
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    transform: rotate(193deg);
+}
+.pic10 {
+    width: 120px;
+    position: absolute;
+    left: 38%;
+    top: 76%;
+    transform: rotate(-30deg);
+}
+.pic11 {
+    width: 200px;
+    position: absolute;
+    top: 58%;
+    left: 6%;
+}
+.pic12 {
+	width: 200px;
+    position: absolute;
+    right: 0;
+    top: 79%;
+    transform: rotate(82deg);
+}
+.pic13 {
+    width: 200px;
+    position: absolute;
+    top: 2%;
+    left: 1%;
+}
+.pic14 {
+    width: 50px;
+    position: absolute;
+    top: 35%;
+    left: 57%;
+    z-index: 6;
+}
+.pic15 {
+    width: 150px;
+    position: absolute;
+    left: 20%;
+} 
+
